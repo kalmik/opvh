@@ -1,0 +1,6 @@
+#!/usr/bin/env python3
+
+from opvh import opvh
+
+if __name__ == '__main__':
+    opvh.main()
